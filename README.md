@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="web/src/assets/images/logogit.svg" width="100%">
+  <img src="web/src/assets/images/logogit.svg" width="1500">
 </div>
 
 <br>
