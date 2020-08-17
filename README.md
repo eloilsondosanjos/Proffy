@@ -2,6 +2,9 @@
   <img src="web/src/assets/images/logogit.svg">
 </div>
 
+<br>
+<br>
+
 <div align="center">	
    <a href="www.linkedin.com/in/eloilsondosanjosrocha">
       <img alt="Eloilson dos Anjos" src="https://img.shields.io/badge/-Eloilson dos Anjos-9871F5?style=flat&logo=Linkedin&logoColor=white" />
