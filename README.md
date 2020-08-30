@@ -79,25 +79,37 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
   # Pasta da aplicação WEB:
   
   $ cd .. # Para voltar um pasta
+
   $ cd Proffy/web
+
   # Para instalar todas as dependências do projeto
+
   $ yarn
+
   # Para iniciar a aplicação em http://localhost:3000
+
   $ yarn start
 
   # Pasta da aplicação Mobile:
 
   $ cd .. # Para voltar um pasta
+
   $ cd Proffy/mobile
+
   # Para instalar todas as dependências do projeto
+
   $ yarn
+
   # Para iniciar a aplicação vai precisar abrir dois terminais e digitar o comando:
 
-  # No primeiro terminal digite o comando e espere inicar totalmente: 
+  # No primeiro terminal digite o comando e espere inicar totalmente:
+   
   $ yarn start
 
   # No segundo terminal: 
+
   $ yarn android # para executar no Android
+
   $ yarn ios # para executar no iOS
 
 ```
