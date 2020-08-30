@@ -102,7 +102,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ```
 
-### Problemas para executar a versão mobile do projeto?
+### ⚠⚠⚠ Problemas para executar a versão mobile do projeto? ⚠⚠⚠
    - Acesse [aqui](https://github.com/Rocketseat/expo-common-issues) e veja os problemas mais communs. 
    - Acesse [aqui](https://blog.rocketseat.com.br/expo-sdk-38-melhorias-que-fazem-do-expo-uma-opcao-ainda-melhor/) e veja mais detalhes sobre como executar o expo em simuladores ou no dispositivo físico via LAN. 
    - Acesse [aqui](https://docs.expo.io/) a documentação oficial.
