@@ -38,6 +38,14 @@
 
 <br>
 
+## 💻 O que é o Proffy
+
+<br>
+
+Proffy é uma plataforma que conecta estudantes à professores. Desenvolvido na Next Level Week #2 da Rocketseat, usando as mais modernas tecnologias, do back-end, front-end e mobile.
+
+<br>
+
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
@@ -49,9 +57,55 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 <br>
 
-## 💻 Projeto 🚧 Em Construção 🚧
+## 📦 Como Baixar e Executar o Projeto:
 
-Proffy é uma plataforma que conecta estudantes à professores. Desenvolvido na Next Level Week #2 da Rocketseat, usando as mais modernas tecnologias, do back-end, front-end e mobile.
+```bash
+
+  # Primeiro clone o repositório para sua maquina
+
+  $ git clone https://github.com/eloilsondosanjos/Proffy.git
+
+  # Entre em cada uma das pasta para instalar as dependências
+
+  # Pasta da API:
+
+  $ cd Proffy/server
+  # Para instalar todas as dependências do projeto
+  $ yarn
+  # Para iniciar a aplicação em http://localhost:3333
+  $ yarn start
+
+
+  # Pasta da aplicação WEB:
+  
+  $ cd .. # Para voltar um pasta
+  $ cd Proffy/web
+  # Para instalar todas as dependências do projeto
+  $ yarn
+  # Para iniciar a aplicação em http://localhost:3000
+  $ yarn start
+
+  # Pasta da aplicação Mobile:
+
+  $ cd .. # Para voltar um pasta
+  $ cd Proffy/mobile
+  # Para instalar todas as dependências do projeto
+  $ yarn
+  # Para iniciar a aplicação vai precisar abrir dois terminais e digitar o comando:
+
+  # No primeiro terminal digite o comando e espere inicar totalmente: 
+  $ yarn start
+
+  # No segundo terminal: 
+  $ yarn android # para executar no Android
+  $ yarn ios # para executar no iOS
+
+```
+
+### Problemas para executar a versão mobile do projeto?
+   - Acesse [aqui](https://github.com/Rocketseat/expo-common-issues) e veja os problemas mais communs. 
+   - Acesse [aqui](https://blog.rocketseat.com.br/expo-sdk-38-melhorias-que-fazem-do-expo-uma-opcao-ainda-melhor/) e veja mais detalhes sobre como executar o expo em simuladores ou no dispositivo físico via LAN. 
+   - Acesse [aqui](https://docs.expo.io/) a documentação oficial.
 
 <br>
 
@@ -60,7 +114,6 @@ Proffy é uma plataforma que conecta estudantes à professores. Desenvolvido na 
 Você pode ver o layout detalhado através do figma. [nesse link](https://www.figma.com/file/hjo7MSHTkunfi5JwtOGzUL/Proffy-Web?node-id=81%3A666)
 
 <br>
-
 
 ## 📋 Licença
 
