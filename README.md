@@ -129,7 +129,7 @@ Você pode ver o layout detalhado através do figma. [nesse link](https://www.fi
 
 ## 📋 Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.htm) para mais detalhes.
 
 <br>
 
